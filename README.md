@@ -34,7 +34,7 @@ Your solution should contain one method similar to: <br>
 public string Convert(int amount)
 ```
 
-####Tips
+#### Tips
 * Take small steps. You should always be able to go to a green state (with all tests passing) quickly.
 * Stick to the red, green and refactor steps.
 * Try not to refactor in the red. If you write a failing test that would need a big rewrite to pass, consider removing the test, refactoring in the green, and then writing the test again.
