@@ -31,7 +31,7 @@ Write a program that given a number, converts into LCD style numbers using the f
 #### Getting Started
 Your solution should contain one method similar to: <br>
 ```
-public string Convert(int amount)
+public string Convert(int number)
 ```
 
 #### Tips
